@@ -75,11 +75,11 @@
 ```
 
 ⚙️ Setup & Installation
+
 1. Clone the Repository 
     git clone (https://github.com/Gauriigupta/Virtual-CosmosRealTimeProximityChat)
     cd virtual-cosmos
 2. Backend Setup
-
     cd server
     npm install
 # Ensure your MongoDB URI is configured in config/db.js
