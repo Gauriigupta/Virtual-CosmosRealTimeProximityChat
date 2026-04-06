@@ -72,10 +72,11 @@
 │   └── index.js           # Express & Socket.io Server
 └── README.md
 
+```
 
 ⚙️ Setup & Installation
 1. Clone the Repository 
-    git clone [https://github.com/Durgesh1008/virtual-cosmos.git]
+    git clone (https://github.com/Gauriigupta/Virtual-CosmosRealTimeProximityChat)
     cd virtual-cosmos
 2. Backend Setup
 
