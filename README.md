@@ -8,7 +8,7 @@
 
 ### 1. The Cosmos Environment
 ![Cosmos View](image.png)
-<img width="397" height="181" alt="image" src="https://github.com/user-attachments/assets/ed45d456-83a0-4050-a687-7e9c424f8f27" />
+
 
 *A high-performance 2D space where multiple users can navigate as avatars simultaneously.*
 
