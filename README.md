@@ -7,8 +7,7 @@
 ## 📸 Project Screenshots
 
 ### 1. The Cosmos Environment
-![Cosmos View](image.png)
-
+![Cosmos View](<img width="1450" height="686" alt="image" src="https://github.com/user-attachments/assets/aef7e7a1-74b1-490c-85e6-55332ee71810" />)
 
 *A high-performance 2D space where multiple users can navigate as avatars simultaneously.*
 
