@@ -74,17 +74,23 @@
 
 ```
 
-⚙️ Setup & Installation
+## 🛠️ Setup & Installation
 
-1. Clone the Repository 
-    git clone (https://github.com/Gauriigupta/Virtual-CosmosRealTimeProximityChat)
-    cd virtual-cosmos
-2. Backend Setup
+Follow these steps to get the project up and running on your local machine.
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/Gauriigupta/Virtual-CosmosRealTimeProximityChat.git](https://github.com/Gauriigupta/Virtual-CosmosRealTimeProximityChat.git)
+cd Virtual-CosmosRealTimeProximityChat
+
+```
+
+# Backend Setup
     cd server
     npm install
 # Ensure your MongoDB URI is configured in config/db.js
     npm start
-3. Frontend Setup
+# Frontend Setup
 
     cd client
     npm install
