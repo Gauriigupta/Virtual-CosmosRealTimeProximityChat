@@ -15,14 +15,12 @@
 ### 2. Real-Time Proximity Chat
 
 <img width="1455" height="682" alt="image" src="https://github.com/user-attachments/assets/12e65e2e-de19-464b-af7e-37d4c56897d0" />
-<img width="1450" height="679" alt="image" src="https://github.com/user-attachments/assets/ac54c3de-b8e0-471c-bae1-f75b99fb9532" />
+<img width="1463" height="684" alt="image" src="https://github.com/user-attachments/assets/ddfb5c7d-786a-4ae7-951f-abffdca13fba" />
+
 
 
 *Automatic chat panel trigger when two users enter the proximity radius.*
 
-### 3. User Identity & Movement
-![Movement and Name Tags](image-6.png)
-*Custom avatars with dynamic name tags and smooth WASD/Arrow key movement.*
 
 ---
 
