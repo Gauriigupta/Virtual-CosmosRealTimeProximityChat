@@ -14,6 +14,8 @@
 
 ### 2. Real-Time Proximity Chat
 ![Proximity Chat](image-1.png) (![alt text](image-2.png))
+<img width="1455" height="682" alt="image" src="https://github.com/user-attachments/assets/12e65e2e-de19-464b-af7e-37d4c56897d0" />
+
 *Automatic chat panel trigger when two users enter the proximity radius.*
 
 ### 3. User Identity & Movement
